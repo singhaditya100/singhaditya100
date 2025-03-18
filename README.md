@@ -10,7 +10,7 @@
     - HTML
     - CSS
     - Java Script
-    - <ogodb
+    - MongoDB
     - Figma, Photosho Adobe
     - MySQL (Basic)
     - Python
@@ -53,4 +53,6 @@
   - To secure a position in a tech company where I can apply my skills in web development and game design.
   - To continue learning and growing in the field of computer science and software development.
 **singhaditya100/singhaditya100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
