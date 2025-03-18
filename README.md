@@ -2,7 +2,6 @@
 
 - **Personal Information:**
   - Name: Aditya Singh
-  - Phone: 9004269536
   - Email: adityaishwarduttsingh@gmail.com
 
 - **Skills:**
